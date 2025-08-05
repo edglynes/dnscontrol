@@ -188,7 +188,7 @@ Created zone: example_2.com
   Comment: This zone created by DNSControl (http://dnscontrol.org)
   SignAndServe: false
   SignAndServeAlgorithm: RSA_SHA512
-  ContractId: X-XXXXX
+  ContractId: X-XXXX
   GroupId: NNNNNN
 SUCCESS!
 CONCURRENTLY gathering 0 zone(s)
