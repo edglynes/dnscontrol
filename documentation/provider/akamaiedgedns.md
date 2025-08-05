@@ -288,7 +288,7 @@ var DSP_AKAMAIEDGEDNS = NewDnsProvider("akamaiedgedns");
 D("example_3.com", REG_NONE, DnsProvider(DSP_AKAMAIEDGEDNS),
   NAMESERVER_TTL(86400),
   AUTODNSSEC_ON,
-  AKAMAICDN("@", "www.preconfigured.edgesuite.net", TTL(20)),
+  AKAMAICDN("@", "www.preconfigured_3.edgesuite.net", TTL(20)),
   A("foo_3", "1.2.3.6"),
 );
 ```
