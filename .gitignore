@@ -29,6 +29,7 @@ stack.sh
 *.sw[a-p]
 .jekyll-cache
 types-dnscontrol.d.ts
+dns-control
 
 dist/
 node_modules/
