@@ -80,6 +80,9 @@ The AKAMAICDN target must be preconfigured in the Akamai network.
 ```shell
 dnscontrol check
 ```
+
+Use **dnscontrol check** to verify whether the dnsconfig.js file contents are valid.
+
 Example:
 
 {% code title="dnsconfig.js" %}
@@ -101,7 +104,7 @@ Output:
 No errors.
 ```
 
-Use **dnscontrol check** to verify whether the dnsconfig.js file contents are valid.
+
 
 ### dnscontrol preview command
 ```shell
